@@ -1,0 +1,9 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["vishal_kumar_sharma <vishalsharma16171718@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
